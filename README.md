@@ -33,9 +33,6 @@ generates one javascript file that includes the needed dependencies using DOM ma
 
 a generated example is in the directory `example/`.
 
-
-
-
 ### How it works
 
 To include a file use require('foo.js') or template('bar.tpl.html'), this scripts wraps 
